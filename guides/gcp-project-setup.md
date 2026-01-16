@@ -11,7 +11,7 @@ Follow these steps to set up your GCP project for *Elements of Data Integration*
 
 4. Create a GCP project by clicking on the drop-down at the top of the page and selecting new project. If you signed up for the free trial, a GCP project should have been created for you by the name of **My First Project**. 
 
-5. Change the name of your project to match your EID. To rename the GCP project, click on the three dots on the top right on the navigation bar and click on **Project Settings** in the dropdown.
+5. Change the name of your project to match your repo name. To rename the GCP project, click on the three dots on the top right on the navigation bar and click on **Project Settings** in the dropdown.
 
 ![](https://github.com/cs327e-spring2019/snippets/blob/master/Screenhots/three%20dots.PNG)
 
