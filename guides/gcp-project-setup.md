@@ -21,7 +21,7 @@ Follow these steps to set up your GCP project for *Elements of Data Integration*
 
 7. Click on the navigation menu on the top-left corner, select **IAM & admin**, and navigate to the **IAM** menu.
 
-8. Click on **Grant access** to add the instructor's emails as editors on your GCP Project. This will give the Professor and TAs access to your GCP Project so that they can grade your assignments and help you during office hours.
+8. Click on **Grant access** to add the instructor's email as owner on your GCP Project. This will give the Professor and TA access to your GCP Project so that they can grade your assignments and help you during office hours.
 
 9. In the **New Members** input box, enter cs333e.instructors@gmail.com. Under **Role**, select **Owner** and assign the **Owner** role to this email account.
 
